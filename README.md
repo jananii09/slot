@@ -131,6 +131,7 @@ Execute the program using runserver command.
 </html>
 """
 ## OUTPUT
+
 ![alt text](<Screenshot 2024-12-10 194939.png>)
 
 ## RESULT
